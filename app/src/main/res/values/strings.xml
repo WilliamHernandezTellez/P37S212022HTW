@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">p37s2120222htw</string>
+    <string name="Titulo">Suma de dos numeros</string>
+    <string name="lnum1"> ingresa el primer numero </string>
+    <string name="lnum2">Ingresa el segundo numero</string>
+    <string name="place1">coloca el numero 1 aqui </string>
+    <string name="place2">coloca el numero 2 aqui </string>
+    <string name="lbtncalcula">Calcular</string>
+    <string name="lresultado">Resultado:</string>
+
+    <string name="Titulo2">resta de dos numeros</string>
+    <string name="lnum3"> ingresa el primer numero </string>
+    <string name="lnum4">Ingresa el segundo numero</string>
+    <string name="place3">coloca el numero 1 aqui </string>
+    <string name="place4">coloca el numero 2 aqui </string>
+    <string name="lbtncalcula2">Calcular</string>
+    <string name="lresultado2">resultado:</string>
+
+    <string name="Titulo3">Multiplicacion de dos numeros</string>
+    <string name="lnum5"> ingresa el primer numero </string>
+    <string name="lnum6">Ingresa el segundo numero</string>
+    <string name="place5">coloca el numero 1 aqui </string>
+    <string name="place6">coloca el numero 2 aqui </string>
+    <string name="lbtncalcula3">Calcular</string>
+    <string name="lresultado3">resultado:</string>
+
+    <string name="Titulo4">Division de dos numeros</string>
+    <string name="lnum7"> ingresa el primer numero </string>
+    <string name="lnum8">Ingresa el segundo numero</string>
+    <string name="place7">coloca el numero 1 aqui </string>
+    <string name="place8">coloca el numero 2 aqui </string>
+    <string name="lbtncalcula4">Calcular</string>
+    <string name="lresultado4">resultado:</string>
+
+
+</resources>
